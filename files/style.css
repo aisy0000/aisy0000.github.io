@@ -171,10 +171,15 @@ h1 {
 	cursor: default;
 }
 
+h3 {
+	font-size: 20px;
+}
+
 
 b {
                 color: var(--accent-color);
-            }
+}
+            
 
 
 p {
