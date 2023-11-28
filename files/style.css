@@ -171,6 +171,11 @@ h1 {
 	cursor: default;
 }
 
+b {
+                color: #ff5858;
+            }
+
+
 p {
 	margin: 0px;
 	font-weight: 500;
