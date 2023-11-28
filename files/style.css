@@ -171,6 +171,12 @@ h1 {
 	cursor: default;
 }
 
+
+span {
+	var(--accent-color);
+}
+
+
 b {
                 color: var(--accent-color);
             }
