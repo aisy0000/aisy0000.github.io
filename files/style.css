@@ -172,7 +172,7 @@ h1 {
 }
 
 b {
-                color: #ff5858;
+                color: var(--accent-color);
             }
 
 
