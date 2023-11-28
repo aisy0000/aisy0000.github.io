@@ -173,7 +173,8 @@ h1 {
 
 
 span {
-	var(--accent-color);
+	color: var(--accent-color);
+	font-size: 20px;
 }
 
 
