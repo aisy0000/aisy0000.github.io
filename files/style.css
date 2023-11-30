@@ -148,11 +148,6 @@ html {
 }
 
 
-
-
-
-
-
 h3 {
 	font-size: 25px;
 }
@@ -167,9 +162,6 @@ a {
 	margin: 0 auto;
 	font-weight: 500;
 	color: var(--accent-color);
-	
-	cursor: grab;
-	
 	-webkit-transition-duration: 0.5s;
 	-moz-transition-duration: 0.5s;
 	-o-transition-duration: 0.5s;
@@ -188,10 +180,12 @@ a.typewrite {
 
 a:hover {
 	color: rgba(255, 255, 255, 0.5);
+	cursor: grab;
 }
 
 b:hover {
 	color: rgba(255, 255, 255, 0.5);
+	cursor: grab;
 }
 
 .wrap {
