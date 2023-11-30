@@ -226,7 +226,13 @@ b:active {
 #button:hover {
 	background-color: var(--accent-color);
 	outline: none;
+	cursor: grab;
 }
+
+#button:active {
+	cursor: grabbing;
+}
+
 
 @-webkit-keyframes BgAnim {
 	0% {
