@@ -11,10 +11,6 @@
 	--gradient-color-fourth: #341677;
 }
 
-.rotate {
-	animation: spin 1s linear 1;
-}
-
 
 @-webkit-keyframes fadein {
 	from {
