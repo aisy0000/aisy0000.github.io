@@ -202,7 +202,6 @@ b:hover {
 
 .wrap {
 	border-right: 0.05em solid var(--text-color);
-	animation: blinking 1.5s steps(1) infinite;
 }
 
 .avatar {
