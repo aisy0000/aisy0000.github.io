@@ -188,6 +188,15 @@ b:hover {
 	cursor: grab;
 }
 
+a:active {
+	cursor: grabbing;
+}
+
+b:active {
+	cursor: grabbing;
+}
+
+
 .wrap {
 	border-right: 0.05em solid var(--text-color);
 }
