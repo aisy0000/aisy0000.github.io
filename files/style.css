@@ -177,6 +177,11 @@ a {
 	transition-duration: 0.5s;
 }
 
+b {
+	color:  rgba(255, 255, 255, 0.5);
+}
+
+
 a.typewrite {
 	font-weight: bold;
 }
