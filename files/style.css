@@ -194,6 +194,10 @@ a:hover {
 	color: var(--accent-color);
 }
 
+b:hover {
+	color: var(--accent-color);
+}
+
 .wrap {
 	border-right: 0.05em solid var(--text-color);
 	animation: blinking 1.5s steps(1) infinite;
