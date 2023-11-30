@@ -158,13 +158,6 @@ h3 {
 }
 
 
-p {
-	margin: 0px;
-	font-weight: 500;
-	font-size: 16px;
-	color: var(--accent-color);
-}
-
 #buttonsDivider {
 	color: rgba(255, 255, 255, 0.5)
 }
