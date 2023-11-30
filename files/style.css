@@ -188,6 +188,7 @@ a.typewrite {
 
 a:hover {
 	color: var(--accent-color);
+	cursor: grab;
 }
 
 b:hover {
