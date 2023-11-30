@@ -173,8 +173,10 @@ a {
 	width: fit-content;
 	margin: 0 auto;
 	font-weight: 500;
-	color: rgba(255, 255, 255, 0.5);
-	cursor: default;
+	color: var(--accent-color);
+	
+	cursor: grab;
+	
 	-webkit-transition-duration: 0.5s;
 	-moz-transition-duration: 0.5s;
 	-o-transition-duration: 0.5s;
@@ -187,11 +189,11 @@ a.typewrite {
 }
 
 a:hover {
-	color: var(--accent-color);
+	color: rgba(255, 255, 255, 0.5);
 }
 
 b:hover {
-	color: var(--accent-color);
+	color: rgba(255, 255, 255, 0.5);
 }
 
 .wrap {
