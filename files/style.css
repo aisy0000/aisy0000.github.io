@@ -354,9 +354,7 @@ b:active {
 	}
 }
 
-/*
-    Rules for tablets and PC's in landscape
-*/
+
 @media (min-width: 840px) and (orientation: landscape) {
 	h1 {
 		margin-top: 8px;
@@ -370,9 +368,7 @@ b:active {
 	}
 }
 
-/*
-    Rules for tablets and PC's in portrait
-*/
+
 @media (min-height: 860px) and (orientation: portrait) {
 	h1 {
 		margin-top: 8px;
@@ -387,9 +383,7 @@ b:active {
 	}
 }
 
-/*
-    Rules for regular phones in portait mode
-*/
+
 @media (max-height: 850px) and (orientation: portrait) {
 	h1 {
 		margin-top: 8px;
@@ -413,9 +407,7 @@ b:active {
 	}
 }
 
-/*
-    Rules for regular phones landscape
-*/
+
 @media (max-width: 830px) and (orientation: landscape) {
 	h1 {
 		margin-top: 8px;
@@ -433,9 +425,7 @@ b:active {
 	}
 }
 
-/*
-    Special rule for portrait and landscape modes for small phones (e.g. iPhone 5S/SE and others)
-*/
+
 @media (max-width: 360px) and (orientation: portrait) {
 	h1 {
 		margin-top: 8px;
